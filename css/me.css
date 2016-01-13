@@ -1,0 +1,12 @@
+.navbar a {
+  color: black;
+}
+
+.navbar a:hover {
+  color: #2980b9;
+}
+
+img {
+  float: left;
+  padding-right: 20px;
+}

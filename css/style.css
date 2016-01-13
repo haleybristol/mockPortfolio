@@ -1,6 +1,8 @@
 body {
-  margin-left: 20px;
+  margin-left: 150px;
+  margin-right: 50px;
   margin-top: 10px;
+  float: right
 }
 
 .col-md-4 {
@@ -9,4 +11,16 @@ body {
 
 h1 {
   text-align: center;
+}
+
+.navbar a {
+  color: black;
+}
+
+.navbar a:hover {
+  color: #2980b9;
+}
+
+img {
+  width: 500px;
 }
