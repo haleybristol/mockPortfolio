@@ -1,2 +1,2 @@
 # portfolio-2
-This is a webpage that uses html5 and css> it is written by Haley Bristol and displays her portfolio.
+This is a webpage created by Haley Bristol, the languages used are html5 and css.
