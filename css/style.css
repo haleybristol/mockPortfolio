@@ -6,3 +6,7 @@ body {
 .col-md-4 {
   padding-top: 13px;
 }
+
+h1 {
+  text-align: center;
+}
